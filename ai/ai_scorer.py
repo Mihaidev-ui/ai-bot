@@ -1,4 +1,5 @@
 
-def score_strategy(strategy_output):
-    print("Scorare strategie:", strategy_output)
-    return 0.85
+def score_strategy(output):
+    if output.get("wave"):
+        return output["strength"] / 10
+    return 0.1

@@ -1,3 +1,3 @@
 
 def train_loop():
-    print("Pornire antrenament AI...")
+    print("Antrenament AI: simulare mutație parametri...")
