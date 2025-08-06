@@ -1,3 +1,3 @@
-# AI Trading Bot - Proiect Final
+# AI Bot Final
 
-Structură completă pentru botul AI de trading.
+Bot AI pentru trading automat, adaptiv și evolutiv.

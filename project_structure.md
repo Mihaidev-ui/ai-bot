@@ -1,8 +1,7 @@
-## Structură directoare
-
+## Structura proiectului
 - core/
-- strategies/
 - ai/
+- strategies/
 - training/
 - logs/
 - utils/

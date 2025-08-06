@@ -1,1 +1,4 @@
-print('Antrenare model AI (simulare)')
+from training.loop import train_loop
+
+if __name__ == '__main__':
+    train_loop()
