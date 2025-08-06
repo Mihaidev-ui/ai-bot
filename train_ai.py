@@ -1,0 +1,1 @@
+print('Antrenare model AI (simulare)')
